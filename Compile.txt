@@ -1,0 +1,2 @@
+cd "c:\Users\Jp_vi\Documents\Development\CV Builder\cvbuilder_1"
+& "C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin\javac" -d target\classes src\main\java\cvbuilder\View\*.java src\main\java\cvbuilder\Models\*.java src\main\java\cvbuilder\Controller\*.java src\main\java\cvbuilder\App.java

@@ -1,0 +1,3 @@
+# Ignore the target folder
+target/
+compile.txt
